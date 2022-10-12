@@ -165,7 +165,7 @@ void postfixeval()
             j=a;
             t=0;
         }
-        else if(s[i]=='*')
+        else if(arr[i]=='*')
         {
             if(t==0)
             {
